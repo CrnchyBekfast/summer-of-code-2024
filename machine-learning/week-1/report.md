@@ -1,5 +1,7 @@
 The colab file is here: https://colab.research.google.com/drive/1ThgUaWka1KEr9kzfBBU9W4Sge6aplfRg?usp=sharing
 
+The api python file is in the DSoC folder
+
 I followed the workflow from Google MLCC, and did copy-paste some code from the internet and LLMs here and there, adapting it all to my problem and my dataset
 
 The dataset is here: https://www.kaggle.com/c/ieee-fraud-detection/data
