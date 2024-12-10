@@ -2,6 +2,8 @@ The colab file is here: https://colab.research.google.com/drive/1ThgUaWka1KEr9kz
 
 The api python file is in the DSoC folder
 
+The model, encoder and scaler for the api script are big files, couldn't be uploaded to github, if needed I can upload them to google drive
+
 I followed the workflow from Google MLCC, and did copy-paste some code from the internet and LLMs here and there, adapting it all to my problem and my dataset
 
 The dataset is here: https://www.kaggle.com/c/ieee-fraud-detection/data
